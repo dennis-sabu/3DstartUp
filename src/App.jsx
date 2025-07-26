@@ -1,5 +1,5 @@
 import Header from "./components/Header"
-import Hero from "./components/hero"
+import Hero from "./components/hero";
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 // ..
